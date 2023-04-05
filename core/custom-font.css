@@ -1,6 +1,6 @@
 :root {
-    --font-primary: var(--customFont) ,"Segoe UI";
-    --font-display: var(--customFont) ,"Segoe UI";
+    --font-primary: var(--customFont) ,"segoe ui";
+    --font-display: var(--customFont) ,"segoe ui";
 }
 ::placeholder, body, button, input, select, textarea{
     font-family: var(--customFont) !important;
